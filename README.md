@@ -26,4 +26,3 @@ https://zenn.dev/aromarious/
 
 ## 小学生時代 
 - [中学生にAtCoderでプログラミングを教える記録 1回目 〜 背景と環境概要](https://zenn.dev/aromarious/articles/enjoy-atcoder-01)
-aAAAA
