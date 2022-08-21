@@ -34,7 +34,7 @@
 - 代入文の読み方は「右辺を計算する」「左辺の変数の内容を今計算した結果で上書きする」
 #### 📰記事とコード
 - [中学生にAtCoderでプログラミングを教える記録 7回目 〜 ABC081A - Placing Marbles を for文を使って解く](https://zenn.dev/aromarious/articles/enjoy-atcoder-07)
-- [提出した解答](/abc081/a/solve_abc081_a_using_for.py
+- [提出した解答](/abc081/a/solve_abc081_a_using_for.py)
 ----
 
 ### 《**8/15月**》 配列（list）と`for`文のレクチャー
