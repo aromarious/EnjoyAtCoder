@@ -10,6 +10,7 @@
 ### 《**9/1木**》『Pythonコードレシピ集』を渡す
 道具一覧が載っているから、と[『Pythonコードレシピ集』](https://amzn.to/3wGJQlp)を渡した。自分で探す練習。
 - 問題 [ABC088A - Infinite Coins](https://atcoder.jp/contests/abc088/tasks/abc088_a) → [📰提出コード](/abc088/a/solve_abc088_a.py)
+- 問題 [ABC157A - Duplex Printing](https://atcoder.jp/contests/abc157/tasks/abc157_a) → [📰提出コード](/abc157/a/solve_abc157_a.py)
 ----
 
 ### 《**8/24水**》独力でやれるようになってきた。2問こなす
