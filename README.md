@@ -4,8 +4,24 @@
 [aromariousさんの記事一覧 | Zenn](https://zenn.dev/aromarious)
 
 ----
-
 ## 【2022年夏休み】
+----
+
+### 《**9/1木**》『Pythonコードレシピ集』を渡す
+道具一覧が載っているから、と[『Pythonコードレシピ集』](https://amzn.to/3wGJQlp)を渡した。自分で探す練習。
+- 問題 [ABC088A - Infinite Coins](https://atcoder.jp/contests/abc088/tasks/abc088_a) → [📰提出コード](/abc088/a/solve_abc088_a.py)
+----
+
+### 《**8/24水**》独力でやれるようになってきた。2問こなす
+本人が解き筋を独力で考えて、それに応じた道具を渡すようになってきた。
+- 問題 [ABC085A - Already 2018](https://atcoder.jp/contests/abc085/tasks/abc085_a)  →  [📰提出コード](/abc085/a/solve_abc085_a.py)
+- 問題  [ABC064A - RGB Cards](https://atcoder.jp/contests/abc064/tasks/abc064_a) →  [📰提出コード](/abc064/a/solve_abc064_a.py)
+#### 🔧渡した道具
+- `string.split()`
+- `int(string)`
+- `string.replace(before, after)`
+- `==`（比較演算子）
+----
 
 ### 《**8/19金**》 初めてのB問題。ABC069B - i18n 〜 `len(string), string[n], str(int)`
 初めてのB問題に挑戦。✍🏻[ABC069B - i18n](https://atcoder.jp/contests/abc069/tasks/abc069_b) 
