@@ -1,0 +1,2 @@
+#!/bin/zsh
+ARR=(${$(acc task)// /}) && open ${ARR[-1]}
