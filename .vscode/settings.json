@@ -1,9 +1,9 @@
 {
   "command-runner.commands": {
-    "acc new": "cd ${workspaceFolder} && acc new ${input} && code -m $(\\ls -1t */*/solve*.py | head -1)",
-    "acc task": "cd ${fileDirname} && acc task",
-    "oj test": "cd ${fileDirname} && oj test -c 'python ./${fileBasename}' -d ./tests",
-    "acc submit": "cd ${fileDirname} && acc submit ./${fileBasename}",
+    "新しい問題をとってくる": "cd ${workspaceFolder} && acc new -c inquire ${input} && code -m $(\\ls -1t */*/solve*.py | head -1)",
+    "問題を見る": "cd ${fileDirname} && ${workspaceFolder}/bin/opentask",
+    "テストを流す": "cd ${fileDirname} && oj test -c 'python ./${fileBasename}' -d ./tests",
+    "提出する": "cd ${fileDirname} && acc submit ./${fileBasename}",
   },
   "markdown.styles": [
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css"
